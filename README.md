@@ -1,3 +1,14 @@
+![capa github](https://github.com/NatalNW)  
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalNW&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=NatalNW&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
+
 # Hi friend :wave:
 
 "_Do you know what is Gambiarra?_"
@@ -24,3 +35,5 @@ I am Natal and I'm kind of crazy programmer... I'm working at [TIVIT](https://ti
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-282c34?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=NatalNW&color=blue&style=flat)
