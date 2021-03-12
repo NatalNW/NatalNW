@@ -13,14 +13,17 @@
 
 "_Do you know what is Gambiarra?_"
 
-I am Natal and I'm kind of crazy programmer... I'm working at [TIVIT](https://tivit.com/en/) as Automation Developer
+My name is Natanael, better known as Natal (is like xmas in english). My nickname came from a friend's joke, he had not ability to say my name, he would said something like "Natalnoel" and then we would laugh a lot (this joke is more funny in portuguese). This nick works well with kids.
+
+I'm young man who chose to venture into programming world, couse i'm a little crazy guy and also i like what challenges me to evolve. The fact tha i'm crazy helps me to solve problems, even if chaotic they may be. Throughout my life, I learned to think in the midst of the noise, so i am someone calm and peaceful.
+
+I'm working at [TIVIT](https://tivit.com/en/) as Automation Developer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-weslley-0854aa150/)](https://www.linkedin.com/in/natanael-weslley-0854aa150/)
 
 ### :computer: Techs
 
 ![Java](https://img.shields.io/badge/-Java-710000?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-444?style=flat-square&logo=python)
 ![ShellScript](https://img.shields.io/badge/-ShellScript-4f6580?style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
